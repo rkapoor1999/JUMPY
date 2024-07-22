@@ -25,6 +25,12 @@ JUMPY is a 2D platformer game developed using Java and LibGDX. The game features
 2. **Implemented OOP architecture** for modular, maintainable, and scalable game components, optimizing performance.
 3. **Integrated graphics and animations** with LibGDX, creating appealing scenes and smooth, responsive gameplay.
 
+## Screenshots
+
+![Screenshot 1](JUMPY1.png)
+![Screenshot 2](JUMPY2.png)
+![Screenshot 3](JUMPY3.png)
+
 ## Gameplay Instructions
 
 - **Movement:** Use the arrow keys to move the character left or right.
